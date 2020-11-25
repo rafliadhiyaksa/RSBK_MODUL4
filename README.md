@@ -1,3 +1,9 @@
+# SCREENSHOOT
+
+UseRef & UseReducer
+
+![use](https://user-images.githubusercontent.com/38846652/100232602-24270b00-2f5b-11eb-9e06-63ee76065da8.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
